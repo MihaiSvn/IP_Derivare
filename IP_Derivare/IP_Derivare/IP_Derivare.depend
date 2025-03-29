@@ -1,0 +1,143 @@
+# depslib dependency file v1.0
+1736433015 source:c:\facultate\anul i\ip\derivare\ip_derivare\main.cpp
+	<iostream>
+	<cstring>
+	<ctype.h>
+	<stack>
+	<map>
+	<queue>
+	<stdlib.h>
+	<cmath>
+	"Transformare_Din_Inordine_In_Postordine.h"
+	"Transformare_Din_Inordine_In_Postordine.cpp"
+	"DetectareFunctii+PrioritatiFunctii.h"
+	"DetectareFunctii+PrioritatiFunctii.cpp"
+	"Transformare_Din_Postordine_In_Inordine.h"
+	"Transformare_Din_Postordine_In_Inordine.cpp"
+	"CreareArboreSintaxa.h"
+	"CreareArboreSintaxa.cpp"
+	"Functii_De_Derivare.cpp"
+	"Functii_De_Derivare.h"
+	"Simplificari.cpp"
+	"Simplificari.h"
+	"Verificare_Erori.cpp"
+	"Verificare_Erori.h"
+	"grafica.cpp"
+	"grafica.h"
+	"conversie.cpp"
+	"conversie.h"
+	"Structuri.h"
+
+1736341114 c:\facultate\anul i\ip\derivare\ip_derivare\transformare_din_inordine_in_postordine.h
+
+1736421582 c:\facultate\anul i\ip\derivare\ip_derivare\transformare_din_inordine_in_postordine.cpp
+	<iostream>
+	<cstring>
+	<ctype.h>
+	<stack>
+	<map>
+	<graphics.h>
+	"Transformare_Din_Inordine_In_Postordine.h"
+	"DetectareFunctii+PrioritatiFunctii.h"
+	"Structuri.h"
+	"conversie.h"
+
+1735405562 c:\facultate\anul i\ip\derivare\ip_derivare\detectarefunctii+prioritatifunctii.h
+
+1735405453 c:\facultate\anul i\ip\derivare\ip_derivare\detectarefunctii+prioritatifunctii.cpp
+	<iostream>
+	<cstring>
+	<ctype.h>
+	<stack>
+	<map>
+	"DetectareFunctii+PrioritatiFunctii.h"
+
+1733500455 c:\facultate\anul i\ip\derivare\ip_derivare\transformare_din_postordine_in_inordine.h
+
+1735839256 c:\facultate\anul i\ip\derivare\ip_derivare\transformare_din_postordine_in_inordine.cpp
+	<iostream>
+	<cstring>
+	<ctype.h>
+	<stack>
+	<map>
+	"Transformare_Din_Postordine_In_Inordine.h"
+
+1735331669 c:\facultate\anul i\ip\derivare\ip_derivare\crearearboresintaxa.h
+
+1735496373 c:\facultate\anul i\ip\derivare\ip_derivare\crearearboresintaxa.cpp
+	<iostream>
+	<cstring>
+	<ctype.h>
+	<stack>
+	<map>
+	"CreareArboreSintaxa.h"
+	"Structuri.h"
+
+1736418243 c:\facultate\anul i\ip\derivare\ip_derivare\structuri.h
+
+1736353566 c:\facultate\anul i\ip\derivare\ip_derivare\functii_de_derivare.cpp
+	<iostream>
+	<cstring>
+	<ctype.h>
+	<stack>
+	<map>
+	<queue>
+	"Structuri.h"
+	"Functii_De_Derivare.h"
+
+1735835808 c:\facultate\anul i\ip\derivare\ip_derivare\functii_de_derivare.h
+
+1736412541 c:\facultate\anul i\ip\derivare\ip_derivare\simplificari.cpp
+	<iostream>
+	<cstring>
+	<ctype.h>
+	<stack>
+	<map>
+	<queue>
+	<stdlib.h>
+	<cmath>
+	"Structuri.h"
+	"Simplificari.h"
+
+1736303099 c:\facultate\anul i\ip\derivare\ip_derivare\simplificari.h
+
+1736435035 c:\facultate\anul i\ip\derivare\ip_derivare\verificare_erori.cpp
+	<iostream>
+	<cstring>
+	<ctype.h>
+	<stack>
+	<map>
+	<queue>
+	<stdlib.h>
+	<cmath>
+	<graphics.h>
+	"Structuri.h"
+	"Verificare_Erori.h"
+
+1736100537 c:\facultate\anul i\ip\derivare\ip_derivare\verificare_erori.h
+
+1736435737 c:\facultate\anul i\ip\derivare\ip_derivare\grafica.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<ctype.h>
+	<stack>
+	<cmath>
+	<graphics.h>
+	"Structuri.h"
+	"grafica.h"
+	"conversie.h"
+	"Transformare_Din_Inordine_In_Postordine.h"
+	"CreareArboreSintaxa.h"
+	"Functii_De_Derivare.h"
+	"Simplificari.h"
+	"Verificare_Erori.h"
+
+1736417978 c:\facultate\anul i\ip\derivare\ip_derivare\grafica.h
+
+1736418056 c:\facultate\anul i\ip\derivare\ip_derivare\conversie.h
+
+1736418047 c:\facultate\anul i\ip\derivare\ip_derivare\conversie.cpp
+	<iostream>
+	<cstring>
+
